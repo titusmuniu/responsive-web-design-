@@ -1,0 +1,21 @@
+#nav-bar{
+    position: fixed;
+    top: 0;
+  }
+  ul{
+    margin: 75px;
+  }
+  li{
+    display: inline-block;
+  }
+  @media screen and (mid-width: 200px){
+    body{
+      background-color: #00beef;
+    }
+  }
+  .flex {
+    display: flex;
+  }
+  .section{
+    margin: 10px;
+  }
